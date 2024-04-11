@@ -290,3 +290,23 @@ footer {
     background:radial-gradient(var(--nord3),var(--nord2),
     var(--nord1),var(--nord0));
 }
+
+/* ---------------- */
+
+.full_center {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-primary {
+    background-color: var(--nord3);
+    color: var(--nord6);
+}
