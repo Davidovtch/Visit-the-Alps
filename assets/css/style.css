@@ -36,6 +36,10 @@ a:hover {
     color:var(--nord7);
 }
 
+.main_header:hover {
+    color: var(--nord0);
+}
+
 .germania-one-regular {
     font-family: "Germania One", system-ui;
     font-weight: 400;
@@ -139,6 +143,7 @@ main {
 main .center {
     flex:4;
     flex-direction: row;
+    gap:3em;
 }
 
 h1 {
@@ -178,11 +183,13 @@ hr {
 .article_top {
     flex:1;
     display: flex;
+    gap:2em;
 }
 
 .article_bottom {
     flex:1;
     display: flex;
+    gap: 2em;
 }
 
 .article_other {
@@ -209,7 +216,8 @@ footer {
     display: flex;
 }
 
-.footer_left,.footer_right {
+.footer_left,.footer_right,.footer_center{
+    display: flex;
     flex:1;
 }
 
