@@ -1,0 +1,98 @@
+{
+    "Notebook": [
+      {
+       "Brand":"Polishop",
+        "Model":"X11",
+        "Value":100,
+        "Available": true
+      },
+      {
+       "Brand":"Apple",
+        "Model":"XXV",
+        "Value":10000,
+        "Available": true
+      },
+      {
+       "Brand":"Multilaser",
+        "Model":"Turing",
+        "Value":50,
+        "Available": false
+      },
+      {
+       "Brand":"Dell",
+        "Model":"8.1",
+        "Value":300,
+        "Available": true
+      },
+      {
+       "Brand":"Lenovo",
+        "Model":"dragoon",
+        "Value":420,
+        "Available": false
+      }
+    ],
+    "Cellphone": [
+      {
+       "Brand":"Polishop",
+        "Model":"Valita",
+        "Value":25,
+        "Available": false
+      },
+      {
+       "Brand":"Apple",
+        "Model":"XXIII",
+        "Value":5000,
+        "Available": true
+      },
+      {
+       "Brand":"Multilaser",
+        "Model":"Zap",
+        "Value":5,
+        "Available": false
+      },
+      {
+       "Brand":"Samsung",
+        "Model":"Snap",
+        "Value":150,
+        "Available": true
+        },
+      {
+       "Brand":"Xiaomi",
+        "Model":"xing-ling",
+        "Value":200,
+        "Available": true
+      }
+    ],
+    "Accessories": [
+      {
+       "Brand":"Polishop",
+        "Model":"Air-fryer",
+        "Value":230,
+        "Available": true
+      },
+      {
+       "Brand":"Apple",
+        "Model":"AirTag",
+        "Value":1000,
+        "Available": true
+      },
+      {
+       "Brand":"Pichau",
+        "Model":"Keychron",
+        "Value":700,
+        "Available": true
+      },
+      {
+       "Brand":"AMD",
+        "Model":"Ryzen 69",
+        "Value":69420,
+        "Available": false
+      },
+      {
+       "Brand":"Mancer",
+        "Model":"SSD Reaper",
+        "Value":459,
+        "Available": true
+      }
+    ]
+}
